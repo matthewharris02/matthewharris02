@@ -16,8 +16,19 @@
   </p>
 </div>
 
-### Hi there 👋
+---
+### 🌐 🌳 Hi there!
 
+I am an environmentalist and conservation scientist from the UK 👋
+
+### Languages and tools
+<div>
+<p align='center'>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=py,r,latex,emacs,neovim"/>
+    </a>
+  </p>
+</div>
 <!--
 **matthewharris02/matthewharris02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
