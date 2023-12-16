@@ -8,6 +8,11 @@
       <img src="https://img.shields.io/badge/logo-gitlab-blue?logo=gitlab" alt="Gitlab Badge"/>
     </a>
   </div>
+  <p align='center'>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=py,r,latex,emacs,neovim"/>
+    </a>
+  </p>
 </div>
 
 [![My Skills](https://skillicons.dev/icons?i=py,r,latex,emacs,neovim)](https://skillicons.dev)
