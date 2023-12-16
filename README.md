@@ -5,7 +5,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://gitlab.com/matthewharris02">
-      <img src="https://img.shields.io/gitlab/v/gitlab.svg?logo=gitlab" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/logo-gitlab-blue?logo=gitlab" alt="Gitlab Badge"/>
     </a>
   </div>
 </div>
