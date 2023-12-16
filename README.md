@@ -1,13 +1,16 @@
-<div id="header">
-<div id="badges">
-  <a href="https://linkedin.com/matthewharris02/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  
-</div>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <div id="badges">
+    <a href="https://linkedin.com/matthewharris02/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://gitlab.com/matthewharris02">
+      <img src="https://img.shields.io/gitlab/v/gitlab.svg?logo=gitlab" alt="LinkedIn Badge"/>
+    </a>
+  </div>
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=python,R)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,r,latex,emacs,neovim)](https://skillicons.dev)
 
 ### Hi there 👋
 
