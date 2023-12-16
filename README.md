@@ -8,12 +8,6 @@
      <img height="32" width="32" src="https://cdn.simpleicons.org/gitlab" />
     </a>
   </div>
-  <br></br>
-  <p align='center'>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,r,latex,emacs,neovim"/>
-    </a>
-  </p>
 </div>
 
 ---
