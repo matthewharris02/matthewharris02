@@ -1,3 +1,14 @@
+<div id="header">
+<div id="badges">
+  <a href="https://linkedin.com/matthewharris02/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
+</div>
+</div>
+
+[![My Skills](https://skillicons.dev/icons?i=python,R)](https://skillicons.dev)
+
 ### Hi there 👋
 
 <!--
