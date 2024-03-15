@@ -13,7 +13,7 @@
 ---
 ### 🌐 🌳 Hi there!
 
-I am an environmentalist and conservation scientist from the UK 👋
+I am a geographer, environmentalist, and conservation scientist from the UK 👋
 
 ### Languages and tools
 <div>
