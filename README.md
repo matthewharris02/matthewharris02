@@ -19,7 +19,7 @@ I am a geographer, environmentalist, and conservation scientist from the UK 👋
 <div>
 <p align='center'>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,r,latex,emacs,neovim"/>
+      <img src="https://skillicons.dev/icons?i=r,py,latex,emacs,neovim,arch,bash,md"/>
     </a>
   </p>
 </div>
